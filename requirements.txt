@@ -1,12 +1,1 @@
 requests==2.25.1
-numpy==1.20.2
-pandas==1.2.4
-twilio==6.58.0
-telegram-send
-telegram_send
-streamlit
-gunicorn==20.1.0
-jsonschema==3.2.0
-pyparsing==2.4.7
-python-telegram-bot==13.5
-urllib3==1.26.4
